@@ -8,15 +8,25 @@ Is there a product category that returns at a higher rate?
 Does regionality affect return rate?
 Does seasonality affect return rate?
 
-Functionality
 
+Prerequisites
+Get Free access to tableau public by creating a profile Linked HERE --> https://public.tableau.com/app/discover
+
+
+Functionality
 The dashbaord allows users to see how the affect of changing the product category shows the return rate across the above mentioned questions.
+
+Dashboard Linked Below
+https://public.tableau.com/app/profile/wayne.wages/viz/WayneWagesBIAProject5/ReturnByRegionDateCategory
 
 Images
 C:\Users\mdpic\Downloads\2.1 Total Sales & Total Returns.png
 C:\Users\mdpic\Downloads\2.2 Return Rate By Category.png
 C:\Users\mdpic\Downloads\Return Rate By State_Region.png
 C:\Users\mdpic\Downloads\Return Rate By Month.png
+
+Video of Analysis
+https://share.vidyard.com/watch/hinHXXkg7wFXgFPVdwQTUj?
 
 Technologies
 To build this dashbaord and anaylze this data I used the following technolegies:
